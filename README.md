@@ -7,10 +7,10 @@ All you need is:
 
 I've included the file for the receiver so you can map your own 434MHz remote. The other folders are the FCC ID of the corresponding remote that it is mapped for.  
 
-* [Receiver](#-Receiver)
-* [Remote About](#-Remotes)
-* [CHQ7222T434](#-CHQ7222T434)
-* [CHQ7225T](#-CHQ7225T)
+* [Receiver](#Receiver)
+* [Remote About](#Remotes)
+* [CHQ7222T434](#CHQ7222T434)
+* [CHQ7225T](#CHQ7225T)
   
 # Receiver
 This code is a modified version of [ReceiveDemo_Advanced](https://github.com/sui77/rc-switch/tree/master/examples/ReceiveDemo_Advanced) from [sui77/rc-switch](https://github.com/sui77/rc-switch)  
